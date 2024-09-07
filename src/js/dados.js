@@ -44,7 +44,7 @@ let dados = [
     {
         titulo: "Fade",
         descricao: "Fade, uma caçadora de recompensas turca, usa o poder dos pesadelos para capturar os segredos dos inimigos.Personificando o próprio terror, ela persegue os alvos e revela seus medos mais profundos para, depois, destruí - los na escuridão.",
-        link: "https://playvalorant.com/pt-br/agents/fade;",
+        link: "https://playvalorant.com/pt-br/agents/fade/",
         tags: "",
     },
     {
